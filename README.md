@@ -2,13 +2,14 @@
 
 ### ChengZhong Shi, Qiming Liao, Xinping Li, Lin Zhao, and Wen Li
 
-<\hr>
+<hr>
 
 The code in this toolbox implements the []("https://ieeexplore.ieee.org/abstract/document/10261261")
 More specifically, it is detailed as follow:
 
 ![](https://github.com/zhaolin6/G2T/blob/main/Framework.jpg)
 
+<hr>
 ### Citation
 #### Please kindly cite the papers if this code is useful and helpful for your research.
 
@@ -24,7 +25,7 @@ More specifically, it is detailed as follow:
   keywords={Transformers;Feature extraction;Training;Convolutional neural networks;Data mining;Task analysis;Correlation;Convolutional neural network (CNN);graph guided self-attention (G²) mechanism;graph transformer;hyperspectral image (HSI) classification},
   doi={10.1109/LGRS.2023.3316732}}
 ```
-
+<hr>
 ### Licensing
 Copyright (C) 2022 Lin Zhao
 
